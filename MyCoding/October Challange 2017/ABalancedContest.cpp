@@ -2,9 +2,8 @@
 using namespace std;
 int n,p;
 vector<int> vec;
-
 main()
-{
+{//fsa
   int t;
   cin>>t;
 
@@ -31,5 +30,4 @@ main()
      else
      cout<<"yes\n";
   }
-
 }
